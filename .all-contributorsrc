@@ -1,0 +1,64 @@
+{
+  "projectName": "Minor-Project-DDoS-on-Cloud",
+  "projectOwner": "deepesh611",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "deepesh611",
+      "name": "Deepesh Patil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123585104?v=4",
+      "profile": "https://deepesh-patil.vercel.app/",
+      "contributions": [
+        "code",
+        "doc",
+        "research",
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "Sakshamdharmik",
+      "name": "Sakshamdharmik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123961289?v=4",
+      "profile": "https://github.com/Sakshamdharmik",
+      "contributions": [
+        "code",
+        "research",
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Codeguruu03",
+      "name": "Naman Goyal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123642608?v=4",
+      "profile": "https://github.com/Codeguruu03",
+      "contributions": [
+        "content",
+        "ideas",
+        "doc",
+        "research"
+      ]
+    },
+    {
+      "login": "imcoder44",
+      "name": "imcoder44",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157146424?v=4",
+      "profile": "https://github.com/imcoder44",
+      "contributions": [
+        "doc",
+        "code",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
